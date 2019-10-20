@@ -1,0 +1,24 @@
+body{font-size:16px;color: royalblue;}
+h1{font-family:"方正姚体", "黑体", "宋体";font-size: 20px;}
+h2{font-family:"黑体";font-size:16px;color:#009;}
+p{line-height: 2em;}
+p.nav{background-color: #9F0;text-align:center;margin-left: 15%;margin-right: 15%;font-size: 18px;}
+#container{
+		margin: 0px auto;
+		padding: 5px,20px;
+		width:80%;
+		background-color:aqua;
+		text-align:center;
+	    min-height: 700px;
+}
+#triangle{
+	width:0;
+	height:0;
+	border:10px solid transparent;
+	border-top-color:#CCC;
+	border-bottom:0;
+}
+.copyright{
+	text-align:center;
+	margin-bottom:10px;
+}
